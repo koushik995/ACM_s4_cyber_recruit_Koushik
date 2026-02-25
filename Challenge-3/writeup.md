@@ -6,7 +6,7 @@ I got the letter from hogwarts but it was password encrypted help me to find, le
 
 # Analysis and Approach
 
-The PDF could not be opened. It required a password. So, it’s about password cracking. And in image it is said that "no muggle should read it".There was no visible hint inside the PDF name itself. So the password had to be extracted.
+The PDF could not be opened. It required a password. So, it’s about password cracking.There was no visible hint inside the PDF name itself. So the password had to be extracted.
 
 I suspected it is likely in a wordlist.
 I used pdfinfo to get the type of pdf and returned an error saying the password was incorrect, confirming encryption.I also checked encryption type using qpdf, it is standard encrypted pdf
