@@ -33,9 +33,9 @@ So it is asking for the price of the dish, which is Rs.265
 
 # Tools or Commands Used
 
-Google Image Search (reverse image search)
-Google search (about restaurant establishment, filtered results using the 1980 clue)
-Online menu lookup
+- Google Image Search (reverse image search)
+- Google search (about restaurant establishment, filtered results using the 1980 clue)
+- Online menu lookup
 
 ---
 
