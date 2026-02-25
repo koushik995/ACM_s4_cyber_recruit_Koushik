@@ -1,8 +1,7 @@
 # Challenge Description
 
 So last time I went to this place with my friend i ate in a restaurant which was opened in 1980. We ate chicken biryani in the ground floor of that restaurant. I don’t remember the price, can you find out? 
-Flag format: ACM{} 
-Author: g4l3na
+Flag format: ACM{}
 
 ---
 
