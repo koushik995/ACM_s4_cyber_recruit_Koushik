@@ -10,7 +10,7 @@ The file had no extension.The file type is probably being disguised intentionall
 
 So,I suspected that It could be an image with hidden data or could contain appended data or might contain readable strings.
 
-I tried strings, file, exiftool commands on the given wand.jpeg file, there i found the metadata i.e Comment: password: "Full name of the weilder without spaces in small letters"
+I tried strings, file, exiftool commands on the given wand.jpeg file, there i found the metadata and re-Confirmed it with other mentioned commands, i.e Comment: password: "Full name of the weilder without spaces in small letters"
 
 Name of the weilder is Albus Dumbledore, his full name without spaces in small letters is "albuspercivalwulfricbriandumbledore". So, then using steghide, it asks passphrase which was albuspercivalwulfricbriandumbledore, then an embedded file hide.txt shows up, it contains the flag.
 
